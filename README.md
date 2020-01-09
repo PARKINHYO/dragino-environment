@@ -76,8 +76,6 @@ enum { EU868_FREQ_MIN = 863000000,
 static const u1_t PROGMEM APPSKEY[16] = {};
 static const u4_t DEVADDR = {};
 </code></pre>
-
+thethingnetwork 사이트에서 부여받은 device 키와 주소로 변경<br><br><br>
 좌측 상단의 업로드하기 버튼 클릭(reset 버튼 누른상태로 진행 누르지 않으면 오류남) <br><br>
 우측 상단의 시리얼 모니터로 확인
-
-
